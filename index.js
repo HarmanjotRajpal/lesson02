@@ -1,0 +1,7 @@
+var yexys =" am your JavaScript Program”;
+
+
+
+console.log(texts);
+
+
